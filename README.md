@@ -1,2 +1,2 @@
 # AR-PLANE-DETECTION
- it detects plane
+ It detects plane surfaces and we can use it to put objects on it 
